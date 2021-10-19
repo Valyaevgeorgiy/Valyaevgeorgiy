@@ -2,6 +2,8 @@
 
 **Valyaevgeorgiy/Valyaevgeorgiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+I am Valyaev Georgiy, currently pursuing a bachelor's degree majoring in applied informatics from the [Financial University under the Government of the Russian Federation] (https://www.fa.ru) at Moscow City.
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
