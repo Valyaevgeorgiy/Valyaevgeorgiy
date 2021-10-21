@@ -4,7 +4,7 @@ I am Valyaev Georgiy, currently pursuing a bachelor's degree majoring in applied
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Valyaevgeorgiy)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Valyaevgeorgiy&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Valyaevgeorgiy&hide=stars,commits,prs,issues,contribs)
 
 <!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
