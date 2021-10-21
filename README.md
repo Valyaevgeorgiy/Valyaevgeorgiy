@@ -4,7 +4,7 @@ I am Valyaev Georgiy, currently pursuing a bachelor's degree majoring in applied
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Valyaevgeorgiy&count_private=true&show_icons=true&theme=tokyonight)
 
-📫 Feel free to connect with me here:
+  *📫 Feel free to connect with me here:
 
 ### 💻 Things i code with
 
