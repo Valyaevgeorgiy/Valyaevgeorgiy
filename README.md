@@ -6,9 +6,13 @@ I am Valyaev Georgiy, currently pursuing a bachelor's degree majoring in applied
 
 - 🚀 Broke into IT to find myself and achieve success
 
-- ⚡ Fun fact: it turns out that I have a sense of humor and passion for volleyball and football
+- ⚡ Fun fact: it turns out that I have a sense of humor and passion for volleyball and football with:
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=flat&logo=spotify&logoColor=black)](https://open.spotify.com/user/388ign04u6039jdr9leyv0ofi?si=1f6d3a89edac431c)
 
 - :octocat: While I try myself everywhere within the framework of higher education and go to where the soul and desire to walk lies more!
+
+- 💻 I am very stressed by him:
+[![Bitcoin](https://img.shields.io/badge/Bitcoin-000000?style=flat&logo=bitcoin&logoColor=white)](https://ru.investing.com/crypto/bitcoin/btc-usd)
 
 - 🌱 I'm currently learning a lot of programming languages and website layout, such as:
 
@@ -25,16 +29,31 @@ I am Valyaev Georgiy, currently pursuing a bachelor's degree majoring in applied
 
 - 💬 Ask me about coding or a student's life in addition to studying here below:
 
-[![Telegram Badge](https://img.shields.io/badge/-@AsUsVeRsUs-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/AsUsVeRsUs "Contact on Telegram")
 [![Gmail Badge](https://img.shields.io/badge/-valyaev02gg@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:valyaev02gg@gmail.com "Connect via Email")
+[![Stackoverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16944689/valyaev-georgiy?tab=profile)
+
+- 💻 A real pro-gamer and racer in one person prefers:
+
+![PlayStation](https://img.shields.io/badge/PlayStation-003791?style=flat&logo=playstation&logoColor=white)
+![GTX1650](https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=flat&logo=nvidia&logoColor=white)
+[![Steam](https://img.shields.io/badge/Steam-000000?style=flat&logo=steam&logoColor=white)](https://store.steampowered.com)
+![Xbox](https://img.shields.io/badge/Xbox-107C10?style=flat&logo=xbox&logoColor=white)
 
 - 📫 Feel free to connect with me here:
 
-...
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/79168779534?text=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%20%D0%BE%D1%82%20%D0%95%D0%B3%D0%BE%D1%80%D0%B0%20%D0%92%D0%B0%D0%BB%D1%8F%D0%B5%D0%B2%D0%B0!%20%F0%9F%91%8B)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/exponentiaall)
+[![Telegram Badge](https://img.shields.io/badge/-@AsUsVeRsUs-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/AsUsVeRsUs "Contact on Telegram")
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white)](https://vm.tiktok.com/ZSeFvxwFk/)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)]
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/valyaev_egor)
 
 - ⚡ Writing projects and creating mobile applications for such operating systems:
 
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+![Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=flat&logo=linux-mint&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 
 ## 💻 Usually coding in
 
