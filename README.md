@@ -6,8 +6,6 @@ I am Valyaev Georgiy, currently pursuing a bachelor's degree majoring in applied
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Valyaevgeorgiy&layout=compact&theme=maroongold)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Valyaevgeorgiy&repo=Android_projects&theme=city_lights)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
