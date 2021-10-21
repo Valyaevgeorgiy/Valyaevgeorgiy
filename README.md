@@ -1,9 +1,10 @@
 # Glad to see you here! 👋
-<hr>
 
 I am Valyaev Georgiy, currently pursuing a bachelor's degree majoring in applied informatics from the [Financial University under the Government of the Russian Federation](http://www.fa.ru/Pages/Home.aspx) at Moscow City.
 
+<hr>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Valyaevgeorgiy&count_private=true&show_icons=true&theme=tokyonight)
+<hr>
 
 🚀 Broke into IT to find myself and achieve success
 
@@ -24,7 +25,6 @@ I am Valyaev Georgiy, currently pursuing a bachelor's degree majoring in applied
 ...
 
 # 💻 Things i code with
-<hr>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Valyaevgeorgiy&layout=compact&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
