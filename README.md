@@ -7,26 +7,23 @@ I am Valyaev Georgiy, currently pursuing a bachelor's degree majoring in applied
 
 🚀 Broke into IT to find myself and achieve success
 
-.
-
+⚡ Fun fact: it turns out that I have a sense of humor and passion for volleyball and football
 
 :octocat: While I try myself everywhere within the framework of higher education and go to where the soul and desire to walk lies more!
 
+🌱 I'm currently learning a lot of programming languages and website layout, such as:
+
+...
+
+💬 Ask me about coding or a student's life in addition to studying here below:
+
+...
+
 📫 Feel free to connect with me here:
+
+...
 
 ### 💻 Things i code with
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Valyaevgeorgiy&layout=compact&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<!-- - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---!>
-
 
