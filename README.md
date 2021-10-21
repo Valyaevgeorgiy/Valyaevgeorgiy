@@ -6,6 +6,8 @@ I am Valyaev Georgiy, currently pursuing a bachelor's degree majoring in applied
 
 📫 Feel free to connect with me here:
 
+### 💻 Things i code with
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Valyaevgeorgiy&layout=compact&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 
