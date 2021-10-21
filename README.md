@@ -6,15 +6,11 @@ I am Valyaev Georgiy, currently pursuing a bachelor's degree majoring in applied
 
 - 🚀 Broke into IT to find myself and achieve success
 
-- ⚡ Fun fact: it turns out that I have a sense of humor and passion for volleyball and football with:
-
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=flat&logo=spotify&logoColor=black)](https://open.spotify.com/user/388ign04u6039jdr9leyv0ofi?si=1f6d3a89edac431c)
+- ⚡ Fun fact: it turns out that I have a sense of humor and passion for volleyball and football with:     [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=flat&logo=spotify&logoColor=black)](https://open.spotify.com/user/388ign04u6039jdr9leyv0ofi?si=1f6d3a89edac431c)
 
 - :octocat: While I try myself everywhere within the framework of higher education and go to where the soul and desire to walk lies more!
 
-- 💻 I am very stressed by him:
-
-[![Bitcoin](https://img.shields.io/badge/Bitcoin-000000?style=flat&logo=bitcoin&logoColor=white)](https://ru.investing.com/crypto/bitcoin/btc-usd)
+- 💻 I am very stressed by him:     [![Bitcoin](https://img.shields.io/badge/Bitcoin-000000?style=flat&logo=bitcoin&logoColor=white)](https://ru.investing.com/crypto/bitcoin/btc-usd)
 
 - 🌱 I'm currently learning a lot of programming languages and website layout, such as:
 
