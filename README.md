@@ -46,7 +46,7 @@ I am Valyaev Georgiy, currently pursuing a bachelor's degree majoring in applied
 ![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/valyaev_egor)
 
-- ⚡ Writing projects and creating mobile applications for such operating systems:
+- ⚡ Writing projects and creating mobile (and other) applications for such operating systems:
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
