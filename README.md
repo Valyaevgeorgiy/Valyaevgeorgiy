@@ -52,6 +52,16 @@ I am Valyaev Georgiy, currently pursuing a bachelor's degree majoring in applied
 
 <hr>
 
+### Work environment:
+
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=flat&logo=android-studio&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white)
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
+![WebStorm](https://img.shields.io/badge/webstorm-143?style=flat&logo=webstorm&logoColor=white&color=black)
+
+<hr>
+
 ### My contact 💬 info
 
 - Ask me about coding or a student's life in addition to studying here below:
