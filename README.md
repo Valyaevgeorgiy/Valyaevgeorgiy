@@ -123,6 +123,11 @@ I am Valyaev Georgiy, currently pursuing a bachelor's degree majoring in applied
 
 <div align="center">
   <img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="350" height="300" />
+  <br/>
+  
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=388ign04u6039jdr9leyv0ofi&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=388ign04u6039jdr9leyv0ofi&redirect=true)
+  
+  <br/>
   <img src="https://github.com/raghavk16/raghavk16/blob/master/connected.gif" alt="Valyaev Georgiy" width="350" height="300" />
 </div>
 
