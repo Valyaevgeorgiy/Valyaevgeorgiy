@@ -4,6 +4,8 @@ I am Valyaev Georgiy, currently pursuing a bachelor's degree majoring in applied
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Valyaevgeorgiy&count_private=true&show_icons=true&theme=tokyonight)
 
+### Favourite hobbies
+
 - 🚀 Broke into IT to find myself and achieve success
 
 - ⚡ Fun fact: it turns out that I have a sense of humor and passion for volleyball and football with:     [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=flat&logo=spotify&logoColor=black)](https://open.spotify.com/user/388ign04u6039jdr9leyv0ofi?si=1f6d3a89edac431c)
@@ -12,7 +14,7 @@ I am Valyaev Georgiy, currently pursuing a bachelor's degree majoring in applied
 
 - 💻 I am very stressed by him:     [![Bitcoin](https://img.shields.io/badge/Bitcoin-000000?style=flat&logo=bitcoin&logoColor=white)](https://ru.investing.com/crypto/bitcoin/btc-usd)
 
-- 🌱 I'm currently learning a lot of programming languages and website layout, such as:
+### 🌱 I'm currently learning a lot of programming languages and website layout, such as:
 
 ![Git](https://img.shields.io/badge/-Git-gray?style=flat&logo=git)
 ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=flat&logo=Python)
