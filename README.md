@@ -59,7 +59,7 @@ I am Valyaev Georgiy, currently pursuing a bachelor's degree majoring in applied
 
 <p align="center">
   <img src="https://github.com/raghavk16/raghavk16/blob/master/connected.gif" alt="Valyaev Georgiy" width="350" height="300" />
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=388ign04u6039jdr9leyv0ofi&redirect=true" alt="Connect with my Spotify Account" width="350" height="300" />
+  <--!<img src="https://spotify-github-profile.vercel.app/api/view?uid=388ign04u6039jdr9leyv0ofi&redirect=true" alt="Connect with my Spotify Account" width="350" height="300" />-->
 </p>
 
 - :octocat: While I try myself everywhere within the framework of higher education and go to where the soul and desire to walk lies more!
