@@ -1,6 +1,6 @@
 ## Glad to see you here!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
 
-![](https://raw.githubusercontent.com/ValyaevGeorgiy/ValyaevGeorgiy/main/profile.gif)
+![](https://raw.githubusercontent.com/ValyaevGeorgiy/ValyaevGeorgiy/main/my_profile_dark.gif)
 
 I am Valyaev Georgiy, currently pursuing a bachelor's degree majoring in applied informatics from the [Financial University under the Government of the Russian Federation](http://www.fa.ru/Pages/Home.aspx) at Moscow City.
 
