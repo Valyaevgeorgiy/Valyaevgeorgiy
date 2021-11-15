@@ -6,9 +6,9 @@ I am Valyaev Georgiy, currently pursuing a bachelor's degree majoring in applied
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Valyaevgeorgiy&count_private=true&show_icons=true&theme=nightowl)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ValyaevGeorgiy&theme=nightowl)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Valyaevgeorgiy&layout=compact&theme=nightowl)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ValyaevGeorgiy&theme=nightowl)
 
 <hr>
 
