@@ -50,7 +50,9 @@ I am Valyaev Georgiy, currently pursuing a bachelor's degree majoring in applied
 
 <hr>
 
-- 💬 Ask me about coding or a student's life in addition to studying here below:
+### My contact 💬 info
+
+- Ask me about coding or a student's life in addition to studying here below:
 
 [![Gmail Badge](https://img.shields.io/badge/-valyaev02gg@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:valyaev02gg@gmail.com "Connect via Email")
 [![Stackoverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16944689/valyaev-georgiy?tab=profile)
@@ -64,6 +66,6 @@ I am Valyaev Georgiy, currently pursuing a bachelor's degree majoring in applied
 ![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/valyaev_egor)
 
-## 💻 Usually coding in
+### 💻 Usually coding in
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Valyaevgeorgiy&layout=compact&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
