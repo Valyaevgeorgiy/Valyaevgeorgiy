@@ -38,7 +38,7 @@ I am Valyaev Georgiy, currently pursuing a bachelor's degree majoring in applied
 <details> 
   <summary>🚀 Favourite hobbies</summary>
   
-- 🚀 Broke into IT to find myself and achieve success
+- Broke into IT to find myself and achieve success
 
 - 💻 A real pro-gamer and racer in one person prefers:
 
