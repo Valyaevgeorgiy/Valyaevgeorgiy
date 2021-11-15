@@ -52,6 +52,13 @@ I am Valyaev Georgiy, currently pursuing a bachelor's degree majoring in applied
 
 - ⚡ Fun fact: it turns out that I have a sense of humor and passion for volleyball and football with:     [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=flat&logo=spotify&logoColor=black)](https://open.spotify.com/user/388ign04u6039jdr9leyv0ofi?si=1f6d3a89edac431c)
 
+<div align="center">
+<br/>
+  
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=388ign04u6039jdr9leyv0ofi&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=388ign04u6039jdr9leyv0ofi&redirect=true)
+
+<br/>
+
 - :octocat: While I try myself everywhere within the framework of higher education and go to where the soul and desire to walk lies more!
 
 - 🚀 I actively like to follow the news in the universe of information technology of such IT giants as: [![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=flat&logo=apple&logoColor=white)](https://www.apple.com/ru/) [![Xiaomi](https://img.shields.io/badge/Xiaomi-%23FF6900.svg?style=flat&logo=xiaomi&logoColor=white)](https://www.mi.com/ru/) [![Samsung](https://img.shields.io/badge/Samsung-%231428A0.svg?style=flat&logo=samsung&logoColor=white)](https://www.samsung.com/ru/)
@@ -123,11 +130,6 @@ I am Valyaev Georgiy, currently pursuing a bachelor's degree majoring in applied
 
 <div align="center">
   <img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="350" height="300" />
-  <br/>
-  
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=388ign04u6039jdr9leyv0ofi&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=388ign04u6039jdr9leyv0ofi&redirect=true)
-  
-  <br/>
   <img src="https://github.com/raghavk16/raghavk16/blob/master/connected.gif" alt="Valyaev Georgiy" width="350" height="300" />
 </div>
 
