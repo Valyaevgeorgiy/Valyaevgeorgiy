@@ -84,3 +84,27 @@ I am Valyaev Georgiy, currently pursuing a bachelor's degree majoring in applied
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white)](https://vm.tiktok.com/ZSeFvxwFk/)
 ![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/valyaev_egor)
+
+<hr>
+
+#### Pinned
+
+<p align="center">
+<a href="https://github.com/Valyaevgeorgiy/Android_projects">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=Valyaevgeorgiy&repo=Android_projects&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+</a>
+<span>&nbsp;</span>
+<a href="https://github.com/Valyaevgeorgiy/Coding_praktikum">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=Valyaevgeorgiy&repo=Coding_praktikum&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+</a>
+</p>
+
+<p align="center">
+<a href="https://github.com/ValyaevGeorgiy/Server_python">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=Valyaevgeorgiy&repo=Server_python&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+</a>
+<span>&nbsp;</span>
+<a href="https://github.com/Valyaevgeorgiy/R_basic">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=Valyaevgeorgiy&repo=R_basic&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+</a>
+</p>
