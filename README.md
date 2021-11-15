@@ -47,11 +47,7 @@ I am Valyaev Georgiy, currently pursuing a bachelor's degree majoring in applied
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 
-<hr>
-
 ![](https://raw.githubusercontent.com/Valyaevgeorgiy/Valyaevgeorgiy/main/working_dev.gif)
-
-<hr>
 
 ### ⚡ Writing projects and creating mobile (and other) applications for such operating systems:
 
