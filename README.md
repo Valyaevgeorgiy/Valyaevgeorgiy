@@ -47,7 +47,7 @@ I am Valyaev Georgiy, currently pursuing a bachelor's degree majoring in applied
 
 <hr>
 
-[](https://raw.githubusercontent.com/Valyaevgeorgiy/Valyaevgeorgiy/main/working_dev.gif)
+![](https://raw.githubusercontent.com/Valyaevgeorgiy/Valyaevgeorgiy/main/working_dev.gif)
 
 <hr>
 
