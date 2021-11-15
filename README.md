@@ -14,13 +14,13 @@ I am Valyaev Georgiy, currently pursuing a bachelor's degree majoring in applied
 
 - 💻 A real pro-gamer and racer in one person prefers:
 
-![PlayStation](https://img.shields.io/badge/PlayStation-003791?style=flat&logo=playstation&logoColor=white)
-[![Steam](https://img.shields.io/badge/Steam-000000?style=flat&logo=steam&logoColor=white)](https://store.steampowered.com)
-![GTX1650](https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=flat&logo=nvidia&logoColor=white)
-![EA](https://img.shields.io/badge/ea-%23000000.svg?style=flat&logo=ea&logoColor=white)
-![Xbox](https://img.shields.io/badge/Xbox-107C10?style=flat&logo=xbox&logoColor=white)
+![PlayStation](https://img.shields.io/badge/PlayStation-003791?style=flat&logo=Playstation&logoColor=white)
+[![Steam](https://img.shields.io/badge/Steam-000000?style=flat&logo=Steam&logoColor=white)](https://store.steampowered.com)
+![GTX1650](https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=flat&logo=Nvidia&logoColor=white)
+![EA](https://img.shields.io/badge/ea-%23000000.svg?style=flat&logo=Ea&logoColor=white)
+![Xbox](https://img.shields.io/badge/Xbox-107C10?style=flat&logo=Xbox&logoColor=white)
 ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=flat&logo=Playstation&logoColor=white)
-![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=flat&logo=epicgames&logoColor=white)
+![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=flat&logo=Epicgames&logoColor=white)
 
 - ⚡ Fun fact: it turns out that I have a sense of humor and passion for volleyball and football with:     [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=flat&logo=spotify&logoColor=black)](https://open.spotify.com/user/388ign04u6039jdr9leyv0ofi?si=1f6d3a89edac431c)
 
