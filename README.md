@@ -4,15 +4,26 @@ I am Valyaev Georgiy, currently pursuing a bachelor's degree majoring in applied
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Valyaevgeorgiy&count_private=true&show_icons=true&theme=tokyonight)
 
+<hr>
+
 ### Favourite hobbies
 
 - 🚀 Broke into IT to find myself and achieve success
+
+- 💻 A real pro-gamer and racer in one person prefers:
+
+![PlayStation](https://img.shields.io/badge/PlayStation-003791?style=flat&logo=playstation&logoColor=white)
+![GTX1650](https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=flat&logo=nvidia&logoColor=white)
+[![Steam](https://img.shields.io/badge/Steam-000000?style=flat&logo=steam&logoColor=white)](https://store.steampowered.com)
+![Xbox](https://img.shields.io/badge/Xbox-107C10?style=flat&logo=xbox&logoColor=white)
 
 - ⚡ Fun fact: it turns out that I have a sense of humor and passion for volleyball and football with:     [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=flat&logo=spotify&logoColor=black)](https://open.spotify.com/user/388ign04u6039jdr9leyv0ofi?si=1f6d3a89edac431c)
 
 - :octocat: While I try myself everywhere within the framework of higher education and go to where the soul and desire to walk lies more!
 
-- 💻 I am very stressed by him:     [![Bitcoin](https://img.shields.io/badge/Bitcoin-000000?style=flat&logo=bitcoin&logoColor=white)](https://ru.investing.com/crypto/bitcoin/btc-usd)
+- 💻 I'm very stressed by him: [![Bitcoin](https://img.shields.io/badge/Bitcoin-000000?style=flat&logo=bitcoin&logoColor=white)](https://ru.investing.com/crypto/bitcoin/btc-usd)
+
+<hr>
 
 ### 🌱 I'm currently learning a lot of programming languages and website layout, such as:
 
@@ -31,13 +42,6 @@ I am Valyaev Georgiy, currently pursuing a bachelor's degree majoring in applied
 
 [![Gmail Badge](https://img.shields.io/badge/-valyaev02gg@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:valyaev02gg@gmail.com "Connect via Email")
 [![Stackoverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16944689/valyaev-georgiy?tab=profile)
-
-- 💻 A real pro-gamer and racer in one person prefers:
-
-![PlayStation](https://img.shields.io/badge/PlayStation-003791?style=flat&logo=playstation&logoColor=white)
-![GTX1650](https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=flat&logo=nvidia&logoColor=white)
-[![Steam](https://img.shields.io/badge/Steam-000000?style=flat&logo=steam&logoColor=white)](https://store.steampowered.com)
-![Xbox](https://img.shields.io/badge/Xbox-107C10?style=flat&logo=xbox&logoColor=white)
 
 - 📫 Feel free to connect with me here:
 
