@@ -44,7 +44,9 @@ I am Valyaev Georgiy, currently pursuing a bachelor's degree majoring in applied
 
 - :octocat: While I try myself everywhere within the framework of higher education and go to where the soul and desire to walk lies more!
 
-- 💻 I'm very stressed by him: [![Bitcoin](https://img.shields.io/badge/Bitcoin-000000?style=flat&logo=bitcoin&logoColor=white)](https://ru.investing.com/crypto/bitcoin/btc-usd)
+- 🚀 I actively like to follow the news in the universe of information technology of such IT giants as: [![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=flat&logo=apple&logoColor=white)](https://www.apple.com/ru/) [![Xiaomi](https://img.shields.io/badge/Xiaomi-%23FF6900.svg?style=flat&logo=xiaomi&logoColor=white)](https://www.mi.com/ru/) [![Samsung](https://img.shields.io/badge/Samsung-%231428A0.svg?style=flat&logo=samsung&logoColor=white)](https://www.samsung.com/ru/)
+
+- 💻 I'm very stressed by him: [![Bitcoin](https://img.shields.io/badge/Bitcoin-000000?style=flat&logo=bitcoin&logoColor=white)](https://ru.investing.com/crypto/bitcoin/btc-usd) [![Dogecoin](https://img.shields.io/badge/dogecoin-B59A30?style=flat&logo=dogecoin&logoColor=white)](https://ru.investing.com/crypto/dogecoin)
 
 <hr>
 
@@ -52,7 +54,10 @@ I am Valyaev Georgiy, currently pursuing a bachelor's degree majoring in applied
 
 ![Git](https://img.shields.io/badge/-Git-gray?style=flat&logo=git)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=flat&logo=microsoft-powerpoint&logoColor=white)
+![Microsoft Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=flat&logo=microsoft-access&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=flat&logo=microsoft-word&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -77,6 +82,7 @@ I am Valyaev Georgiy, currently pursuing a bachelor's degree majoring in applied
 
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=flat&logo=android-studio&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white)
+![Google](https://img.shields.io/badge/google-4285F4?style=flat&logo=google&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
 ![WebStorm](https://img.shields.io/badge/webstorm-143?style=flat&logo=webstorm&logoColor=white&color=black)
