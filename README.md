@@ -6,7 +6,9 @@ I am Valyaev Georgiy, currently pursuing a bachelor's degree majoring in applied
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Valyaevgeorgiy&count_private=true&show_icons=true&theme=nightowl)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ValyaevGeorgiy&theme=nightowl)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ValyaevGeorgiy&theme=nightowl)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Valyaevgeorgiy&layout=compact&theme=nightowl)
 
 <hr>
 
@@ -86,7 +88,3 @@ I am Valyaev Georgiy, currently pursuing a bachelor's degree majoring in applied
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white)](https://vm.tiktok.com/ZSeFvxwFk/)
 ![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/valyaev_egor)
-
-### 💻 Usually coding in
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Valyaevgeorgiy&layout=compact&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
