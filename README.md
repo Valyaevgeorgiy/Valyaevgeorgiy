@@ -58,7 +58,7 @@ I am Valyaev Georgiy, currently pursuing a bachelor's degree majoring in applied
 - ⚡ Fun fact: it turns out that I have a sense of humor and passion for volleyball and football with:     [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=flat&logo=spotify&logoColor=black)](https://open.spotify.com/user/388ign04u6039jdr9leyv0ofi?si=1f6d3a89edac431c)
 
 <p align="center">
-  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="350" height="300" />
+  <img alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="350" height="300" />
   <img src="https://github.com/raghavk16/raghavk16/blob/master/connected.gif" alt="Valyaev Georgiy" width="350" height="300" />
   <!--<img src="https://spotify-github-profile.vercel.app/api/view?uid=388ign04u6039jdr9leyv0ofi&redirect=true" alt="Connect with my Spotify Account" width="350" height="300" />-->
 </p>
