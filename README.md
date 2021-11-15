@@ -18,33 +18,25 @@ I am Valyaev Georgiy, currently pursuing a bachelor's degree majoring in applied
 
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
-<div align="center">
-<br/>
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Valyaevgeorgiy&count_private=true&show_icons=true&theme=nightowl)
-  
-<br/>
-  
-<br/>
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Valyaevgeorgiy&layout=compact&theme=nightowl)
-  
-<br/>
-  
-<br/>
-  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ValyaevGeorgiy&theme=nightowl)
-  
-<br/>
-  
-<br/>
-  
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="AsUsVeRsUs' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Valyaevgeorgiy&bg_color=1F222E&color=F8D866&line=F85D7F&point=#FFFFFF&hide_border=true" /></a>
-  
-<br/>
-</div>
+  <p align=center>
+  <div align=center>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=ValyaevGeorgiy&theme=nightowl&hide_border=true" alt="Valyaevgeorgiy" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=Valyaevgeorgiy&count_private=true&show_icons=true&theme=nightowl&hide_border=true" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valyaevgeorgiy&layout=compact&theme=nightowl&hide_border=true" />
+    </a>
+  </div>
+  <br>
+  <img alt="AsUsVeRsUs' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Valyaevgeorgiy&bg_color=1F222E&color=F8D866&line=F85D7F&point=#FFFFFF&hide_border=true" width="100%"/>
+  </p>
 </details>
-
 
 <hr>
 
