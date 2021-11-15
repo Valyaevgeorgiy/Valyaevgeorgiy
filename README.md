@@ -111,6 +111,7 @@ I am Valyaev Georgiy, currently pursuing a bachelor's degree majoring in applied
 
 <div align="center">
   <a href="https://www.buymeacoffee.com/kevcui" target="_blank"><img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="280" height="auto" /></a>
+  <img src="https://github.com/raghavk16/raghavk16/blob/master/connected.gif" alt="Valyaev Georgiy" width="350" height="200" />
 </div>
 
 #### Pinned
