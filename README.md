@@ -25,7 +25,7 @@ I am Valyaev Georgiy, currently pursuing a bachelor's degree majoring in applied
   
 <br/>
   
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="AsUsVeRsUs' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Valyaevgeorgiy&theme=nightow1&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="AsUsVeRsUs' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Valyaevgeorgiy&theme=nightow1&hide_border=true" /></a>
   
 <br/>
 </div>
