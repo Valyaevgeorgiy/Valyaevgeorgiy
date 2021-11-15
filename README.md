@@ -35,8 +35,8 @@ I am Valyaev Georgiy, currently pursuing a bachelor's degree majoring in applied
 
 <hr>
 
-### Favourite hobbies
-
+<details> 
+  <summary>Favourite hobbies</summary>
 - 🚀 Broke into IT to find myself and achieve success
 
 - 💻 A real pro-gamer and racer in one person prefers:
@@ -56,6 +56,8 @@ I am Valyaev Georgiy, currently pursuing a bachelor's degree majoring in applied
 - 🚀 I actively like to follow the news in the universe of information technology of such IT giants as: [![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=flat&logo=apple&logoColor=white)](https://www.apple.com/ru/) [![Xiaomi](https://img.shields.io/badge/Xiaomi-%23FF6900.svg?style=flat&logo=xiaomi&logoColor=white)](https://www.mi.com/ru/) [![Samsung](https://img.shields.io/badge/Samsung-%231428A0.svg?style=flat&logo=samsung&logoColor=white)](https://www.samsung.com/ru/)
 
 - 💻 I'm very stressed by him: [![Bitcoin](https://img.shields.io/badge/Bitcoin-000000?style=flat&logo=bitcoin&logoColor=white)](https://ru.investing.com/crypto/bitcoin/btc-usd) [![Dogecoin](https://img.shields.io/badge/dogecoin-B59A30?style=flat&logo=dogecoin&logoColor=white)](https://ru.investing.com/crypto/dogecoin)
+
+</details>
 
 <hr>
 
