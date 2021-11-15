@@ -10,13 +10,11 @@ I am Valyaev Georgiy, currently pursuing a bachelor's degree majoring in applied
 <br/>
 </div>
 
-
-<h3 align="center">
+<h2 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Valyaev+Georgiy......;Nice+to+meet+you!&center=true&size=25">
   </a>
-</h3>
-
+</h2>
 
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
