@@ -3,7 +3,8 @@
 [](https://raw.githubusercontent.com/Valyaevgeorgiy/Valyaevgeorgiy/main/profile_dark_my.gif)
 
 I am Valyaev Georgiy, currently pursuing a bachelor's degree majoring in applied informatics from the [Financial University under the Government of the Russian Federation](http://www.fa.ru/Pages/Home.aspx) at Moscow City.
-
+<details> 
+  <summary>💻 GitHub Profile Stats</summary>
 <div align="center">
 <br/>
   
@@ -29,6 +30,8 @@ I am Valyaev Georgiy, currently pursuing a bachelor's degree majoring in applied
   
 <br/>
 </div>
+</details>
+
 
 <hr>
 
