@@ -107,6 +107,8 @@ I am Valyaev Georgiy, currently pursuing a bachelor's degree majoring in applied
 
 <hr>
 
+![](https://komarev.com/ghpvc/?username=muskanrani&color=brightgreen)
+
 #### Pinned
 
 <p align="center">
