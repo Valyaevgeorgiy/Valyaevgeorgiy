@@ -64,6 +64,10 @@ I am Valyaev Georgiy, currently pursuing a bachelor's degree majoring in applied
 
 <br/>
 
+<img src="https://github.com/raghavk16/raghavk16/blob/master/connected.gif" alt="Valyaev Georgiy" width="350" height="300" />
+  
+</div>
+
 - :octocat: While I try myself everywhere within the framework of higher education and go to where the soul and desire to walk lies more!
 
 - 🚀 I actively like to follow the news in the universe of information technology of such IT giants as: [![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=flat&logo=apple&logoColor=white)](https://www.apple.com/ru/) [![Xiaomi](https://img.shields.io/badge/Xiaomi-%23FF6900.svg?style=flat&logo=xiaomi&logoColor=white)](https://www.mi.com/ru/) [![Samsung](https://img.shields.io/badge/Samsung-%231428A0.svg?style=flat&logo=samsung&logoColor=white)](https://www.samsung.com/ru/)
@@ -134,9 +138,8 @@ I am Valyaev Georgiy, currently pursuing a bachelor's degree majoring in applied
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
 <div align="center">
-  <img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="300" height="300" />
-  <img src="https://github.com/raghavk16/raghavk16/blob/master/connected.gif" alt="Valyaev Georgiy" width="300" height="300" />
-  <img alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" width="300" height="300"/>
+  <img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="350" height="300" />
+  <img alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" width="350" height="300"/>
 </div>
 
 #### Pinned
