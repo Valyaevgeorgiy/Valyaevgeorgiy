@@ -28,12 +28,12 @@ I am Valyaev Georgiy, currently pursuing a bachelor's degree majoring in applied
 ### 🌱 I'm currently learning a lot of programming languages and website layout, such as:
 
 ![Git](https://img.shields.io/badge/-Git-gray?style=flat&logo=git)
-![Python](https://img.shields.io/badge/-Python-8fcfd1?style=flat&logo=Python)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/-Java-E34A86?style=flat&logo=java)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![Github Actions](https://img.shields.io/badge/-Github_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
