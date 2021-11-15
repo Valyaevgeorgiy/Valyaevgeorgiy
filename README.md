@@ -52,7 +52,7 @@ I am Valyaev Georgiy, currently pursuing a bachelor's degree majoring in applied
 
 <hr>
 
-### Work environment:
+### My work environment:
 
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=flat&logo=android-studio&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white)
@@ -62,7 +62,7 @@ I am Valyaev Georgiy, currently pursuing a bachelor's degree majoring in applied
 
 <hr>
 
-### My contact 💬 info
+### Contact 💬 info
 
 - Ask me about coding or a student's life in addition to studying here below:
 
