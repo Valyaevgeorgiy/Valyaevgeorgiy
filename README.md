@@ -25,7 +25,7 @@ I am Valyaev Georgiy, currently pursuing a bachelor's degree majoring in applied
 
 <hr>
 
-### 🌱 I'm currently learning a lot of programming languages and website layout, such as:
+### I'm currently learning a lot of programming languages and website layout, such as:
 
 ![Git](https://img.shields.io/badge/-Git-gray?style=flat&logo=git)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
@@ -37,6 +37,18 @@ I am Valyaev Georgiy, currently pursuing a bachelor's degree majoring in applied
 ![Github Actions](https://img.shields.io/badge/-Github_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+
+<hr>
+
+### ⚡ Writing projects and creating mobile (and other) applications for such operating systems:
+
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=flat&logo=linux-mint&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+
+<hr>
 
 - 💬 Ask me about coding or a student's life in addition to studying here below:
 
@@ -51,13 +63,6 @@ I am Valyaev Georgiy, currently pursuing a bachelor's degree majoring in applied
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white)](https://vm.tiktok.com/ZSeFvxwFk/)
 ![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/valyaev_egor)
-
-- ⚡ Writing projects and creating mobile (and other) applications for such operating systems:
-
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
-![Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=flat&logo=linux-mint&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 
 ## 💻 Usually coding in
 
