@@ -1,6 +1,6 @@
-## Glad to see you here!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
-
-[](https://raw.githubusercontent.com/Valyaevgeorgiy/Valyaevgeorgiy/main/profile_dark_my.gif)
+<p align="center">
+  ### Glad to see you here!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
+<p>
 
 I am Valyaev Georgiy, currently pursuing a bachelor's degree majoring in applied informatics from the [Financial University under the Government of the Russian Federation](http://www.fa.ru/Pages/Home.aspx) at Moscow City.
 <details> 
@@ -36,7 +36,7 @@ I am Valyaev Georgiy, currently pursuing a bachelor's degree majoring in applied
 <hr>
 
 <details> 
-  <summary>Favourite hobbies</summary>
+  <summary>🚀 Favourite hobbies</summary>
   
 - 🚀 Broke into IT to find myself and achieve success
 
