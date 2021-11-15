@@ -12,12 +12,6 @@ I am Valyaev Georgiy, currently pursuing a bachelor's degree majoring in applied
 
 - 💻 I am very stressed by him:     [![Bitcoin](https://img.shields.io/badge/Bitcoin-000000?style=flat&logo=bitcoin&logoColor=white)](https://ru.investing.com/crypto/bitcoin/btc-usd)
 
-<br>
-<br>
-<img src="https://intro.rustbridge.com/img/ferris.gif" width="1200" height="300">
-<br>
-<br>
-
 - 🌱 I'm currently learning a lot of programming languages and website layout, such as:
 
 ![Git](https://img.shields.io/badge/-Git-gray?style=flat&logo=git)
