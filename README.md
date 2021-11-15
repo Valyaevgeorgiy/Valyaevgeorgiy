@@ -14,7 +14,7 @@ I am Valyaev Georgiy, currently pursuing a bachelor's degree majoring in applied
 
 <br>
 <br>
-<img src="https://intro.rustbridge.com/img/ferris.gif" width="800" height="300">
+<img src="https://intro.rustbridge.com/img/ferris.gif" width="1200" height="300">
 <br>
 <br>
 
