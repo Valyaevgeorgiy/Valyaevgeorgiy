@@ -1,10 +1,8 @@
-## Glad to see you here!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
+## Glad to see you here!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> ![Visitors](https://visitor-badge.glitch.me/badge?page_id=Valyaevgeorgiy.Valyaevgeorgiy&left_color=#00008B&right_color=#000000)
 
 I am Valyaev Georgiy, currently pursuing a bachelor's degree majoring in applied informatics from the [Financial University under the Government of the Russian Federation](http://www.fa.ru/Pages/Home.aspx) at Moscow City.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Valyaevgeorgiy&count_private=true&show_icons=true&theme=tokyonight)
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Valyaevgeorgiy.Valyaevgeorgiy&left_color=green&right_color=red)
 
 <hr>
 
