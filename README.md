@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  I am Valyaev Georgiy, currently pursuing a bachelor's degree majoring in applied informatics from the [Financial University under the Government of the Russian Federation (http://www.fa.ru/Pages/Home.aspx) at Moscow City.
+  I am Valyaev Georgiy, currently pursuing a bachelor's degree majoring in applied informatics from the [Financial University under the Government of the Russian Federation](http://www.fa.ru/Pages/Home.aspx) at Moscow City.
 <p>
 
 <details> 
