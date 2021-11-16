@@ -1,20 +1,19 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src=https://readme-typing-svg.herokuapp.com?color=%232FF717&center=true&vCenter=true&height=50&lines=Hello%2C+there!+Glad+to+see+you+here.;This+is+Valyaev+Georgiy...;Nice+to+meet+you!;Welcome+to+the+space+of+my+IT+ideas />
+    <img src=https://readme-typing-svg.herokuapp.com?color=%232FF717&size=45&center=true&vCenter=true&width=900&height=100&lines=Hello%2C+there!+Glad+to+see+you+here.;This+is+Valyaev+Georgiy...;Nice+to+meet+you!;Welcome+to+the+space+of+my+IT+ideas/>
   </a>
 </h1>
 
 <div align="center">
 <br/>
 
-I am Valyaev Georgiy <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" />, currently pursuing a bachelor's degree majoring in applied informatics from the [Financial University under the Government of the Russian Federation](http://www.fa.ru/Pages/Home.aspx) at Moscow City.
+I'm Valyaev Georgiy <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" />, currently pursuing a bachelor's degree majoring in applied informatics from the [Financial University under the Government of the Russian Federation](http://www.fa.ru/Pages/Home.aspx) at Moscow City.
 
 <br/>
 </div>
 
-<details> 
-  <summary><h3>💻 GitHub Profile Stats</h3></summary>
+<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
   <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
@@ -37,8 +36,7 @@ I am Valyaev Georgiy <img src="https://github.com/TheDudeThatCode/TheDudeThatCod
 
 <hr>
 
-<details> 
-  <summary><h3>🚀 Favourite hobbies</h3></summary>
+<details><summary><h3>🚀 Favourite hobbies</h3></summary>
   
 - Broke into IT to find myself and achieve success
 
@@ -127,8 +125,7 @@ I am Valyaev Georgiy <img src="https://github.com/TheDudeThatCode/TheDudeThatCod
 
 <hr>
 
-<details>
-  <summary><h3>😄Funny jokes and gifs of an IT specialist</h3></summary>  
+<details><summary><h3>😄Funny jokes and gifs of an IT specialist</h3></summary>  
   <div align="center">
     <img src=https://raw.githubusercontent.com/Valyaevgeorgiy/Valyaevgeorgiy/main/working_dev.gif />
     <img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="350" height="300" />
