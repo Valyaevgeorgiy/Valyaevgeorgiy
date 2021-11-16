@@ -14,9 +14,7 @@ I'm Valyaev Georgiy <img src="https://github.com/TheDudeThatCode/TheDudeThatCode
 </div>
 
 <details>
-  <h3>
     <summary>💻 GitHub Profile Stats</summary>
-  </h3>
   <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
@@ -39,7 +37,8 @@ I'm Valyaev Georgiy <img src="https://github.com/TheDudeThatCode/TheDudeThatCode
 
 <hr>
 
-<details><summary><h3>🚀 Favourite hobbies</h3></summary>
+<details>
+  <summary>🚀 Favourite hobbies</summary>
   
 - Broke into IT to find myself and achieve success
 
@@ -128,7 +127,7 @@ I'm Valyaev Georgiy <img src="https://github.com/TheDudeThatCode/TheDudeThatCode
 
 <hr>
 
-<details><summary><h3>😄Funny jokes and gifs of an IT specialist</h3></summary>  
+<details><summary>😄Funny jokes and gifs of an IT specialist</summary>  
   <div align="center">
     <img src=https://raw.githubusercontent.com/Valyaevgeorgiy/Valyaevgeorgiy/main/working_dev.gif />
     <img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="350" height="300" />
