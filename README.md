@@ -13,7 +13,10 @@ I'm Valyaev Georgiy <img src="https://github.com/TheDudeThatCode/TheDudeThatCode
 <br/>
 </div>
 
-<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
+<details>
+  <h3>
+    <summary>💻 GitHub Profile Stats</summary>
+  </h3>
   <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
