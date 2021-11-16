@@ -128,9 +128,9 @@ I am Valyaev Georgiy <img src="https://github.com/TheDudeThatCode/TheDudeThatCod
 <hr>
 
 <details>
-  <summary><h3>😄Funny jokes and gifs of an IT specialist</h3></summary>
-  <img src=https://raw.githubusercontent.com/Valyaevgeorgiy/Valyaevgeorgiy/main/working_dev.gif />  
+  <summary><h3>😄Funny jokes and gifs of an IT specialist</h3></summary>  
   <div align="center">
+    <img src=https://raw.githubusercontent.com/Valyaevgeorgiy/Valyaevgeorgiy/main/working_dev.gif />
     <img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="350" height="300" />
     <img alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" width="350" height="300"/>
   </div>
