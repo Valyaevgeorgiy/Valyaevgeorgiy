@@ -1,5 +1,8 @@
+
 <h1 align="center">
-  Glad to see you here!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">;This+is+Valyaev+Georgiy...;Nice+to+meet+you!&center=true&size=25">
+  </a>
 </h1>
 
 <div align="center">
@@ -10,14 +13,10 @@ I am Valyaev Georgiy, currently pursuing a bachelor's degree majoring in applied
 <br/>
 </div>
 
-<h2 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Valyaev+Georgiy......;Nice+to+meet+you!&center=true&size=25">
-  </a>
-</h2>
-
 <details> 
-  <summary>💻 GitHub Profile Stats</summary>
+  <summary>
+    <h2>💻 GitHub Profile Stats</h2>
+  </summary>
   <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
@@ -41,7 +40,9 @@ I am Valyaev Georgiy, currently pursuing a bachelor's degree majoring in applied
 <hr>
 
 <details> 
-  <summary>🚀 Favourite hobbies</summary>
+  <summary>
+    <h2>🚀 Favourite hobbies</h2>
+  </summary>
   
 - Broke into IT to find myself and achieve success
 
@@ -73,14 +74,10 @@ I am Valyaev Georgiy, currently pursuing a bachelor's degree majoring in applied
 
 <hr>
 
-### I'm currently learning a lot of programming languages and website layout, such as:
+### I'm currently learning a lot of programming languages and website layout, such as
 
 ![Git](https://img.shields.io/badge/-Git-gray?style=flat&logo=git)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=flat&logo=microsoft-powerpoint&logoColor=white)
-![Microsoft Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=flat&logo=microsoft-access&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=flat&logo=microsoft-word&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -89,9 +86,9 @@ I am Valyaev Georgiy, currently pursuing a bachelor's degree majoring in applied
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 
-![](https://raw.githubusercontent.com/Valyaevgeorgiy/Valyaevgeorgiy/main/working_dev.gif)
 
-### ⚡ Writing projects and creating mobile (and other) applications for such operating systems:
+
+### ⚡ Writing projects and creating mobile (and other) applications for such operating systems
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
@@ -101,12 +98,16 @@ I am Valyaev Georgiy, currently pursuing a bachelor's degree majoring in applied
 
 <hr>
 
-### My work environment:
+### My work environment
 
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=flat&logo=android-studio&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white)
 ![Google](https://img.shields.io/badge/google-4285F4?style=flat&logo=google&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=flat&logo=microsoft-powerpoint&logoColor=white)
+![Microsoft Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=flat&logo=microsoft-access&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=flat&logo=microsoft-word&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
 ![WebStorm](https://img.shields.io/badge/webstorm-143?style=flat&logo=webstorm&logoColor=white&color=black)
 
@@ -114,12 +115,12 @@ I am Valyaev Georgiy, currently pursuing a bachelor's degree majoring in applied
 
 ### Contact 💬 info
 
-- Ask me about coding or a student's life in addition to studying here below:
+- Ask me about coding or a student's life in addition to studying here below
 
 [![Gmail Badge](https://img.shields.io/badge/-valyaev02gg@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:valyaev02gg@gmail.com "Connect via Email")
 [![Stackoverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16944689/valyaev-georgiy?tab=profile)
 
-- 📫 Feel free to connect with me here:
+- 📫 Feel free to connect with me here
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/79168779534?text=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%20%D0%BE%D1%82%20%D0%95%D0%B3%D0%BE%D1%80%D0%B0%20%D0%92%D0%B0%D0%BB%D1%8F%D0%B5%D0%B2%D0%B0!%20%F0%9F%91%8B)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/exponentiaall)
@@ -130,13 +131,25 @@ I am Valyaev Georgiy, currently pursuing a bachelor's degree majoring in applied
 
 <hr>
 
+<details>
+  <summary>
+    <h2>😄Funny jokes and gifs of an IT specialist</h2>
+  </summary>
+  
+  <br/>
+  ![](https://raw.githubusercontent.com/Valyaevgeorgiy/Valyaevgeorgiy/main/working_dev.gif)
+  <br/>
+  
+  <div align="center">
+    <img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="350" height="300" />
+    <img alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" width="350" height="300"/>
+  </div>
+</details>
+  
+
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
-<div align="center">
-  <img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="350" height="300" />
-  <img alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" width="350" height="300"/>
-</div>
-
+  
 #### Pinned
 
 <p align="center">
