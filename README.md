@@ -70,7 +70,7 @@ I'm Valyaev Georgiy <img src="https://github.com/TheDudeThatCode/TheDudeThatCode
 
 <hr>
 
-### I'm currently learning a lot of programming languages and website layout, such as
+##### I'm currently learning a lot of programming languages and website layout, such as
 
 ![Git](https://img.shields.io/badge/-Git-gray?style=flat&logo=git)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
@@ -84,7 +84,7 @@ I'm Valyaev Georgiy <img src="https://github.com/TheDudeThatCode/TheDudeThatCode
 
 
 
-### ⚡ Writing projects and creating mobile (and other) applications for such operating systems
+##### ⚡ Writing projects and creating mobile (and other) applications for such operating systems
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
@@ -94,7 +94,7 @@ I'm Valyaev Georgiy <img src="https://github.com/TheDudeThatCode/TheDudeThatCode
 
 <hr>
 
-### My work environment
+##### My work environment
 
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=flat&logo=android-studio&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white)
@@ -109,7 +109,7 @@ I'm Valyaev Georgiy <img src="https://github.com/TheDudeThatCode/TheDudeThatCode
 
 <hr>
 
-### Contact 💬 info
+##### Contact 💬 info
 
 - Ask me about coding or a student's life in addition to studying here below
 
@@ -139,7 +139,7 @@ I'm Valyaev Georgiy <img src="https://github.com/TheDudeThatCode/TheDudeThatCode
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
   
-#### Pinned
+##### Pinned
 
 <p align="center">
 <a href="https://github.com/Valyaevgeorgiy/Android_projects">
