@@ -1,7 +1,7 @@
 
 <h1 align="center">
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" />
   <a href="https://git.io/typing-svg">
-    <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" />
     <img src=https://readme-typing-svg.herokuapp.com?color=%232FF717&center=true&vCenter=true&height=80&lines=Hello%2C+there!+Glad+to+see+you+here.;This+is+Valyaev+Georgiy...;Nice+to+meet+you!;Welcome+to+the+space+of+my+IT+ideas />
   </a>
 </h1>
