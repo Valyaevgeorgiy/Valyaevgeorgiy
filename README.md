@@ -1,22 +1,21 @@
 
 <h1 align="center">
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" />
   <a href="https://git.io/typing-svg">
-    <img src=https://readme-typing-svg.herokuapp.com?color=%232FF717&center=true&vCenter=true&height=80&lines=Hello%2C+there!+Glad+to+see+you+here.;This+is+Valyaev+Georgiy...;Nice+to+meet+you!;Welcome+to+the+space+of+my+IT+ideas />
+    <img src=https://readme-typing-svg.herokuapp.com?color=%232FF717&center=true&vCenter=true&height=50&lines=Hello%2C+there!+Glad+to+see+you+here.;This+is+Valyaev+Georgiy...;Nice+to+meet+you!;Welcome+to+the+space+of+my+IT+ideas />
   </a>
 </h1>
 
 <div align="center">
 <br/>
 
-I am Valyaev Georgiy, currently pursuing a bachelor's degree majoring in applied informatics from the [Financial University under the Government of the Russian Federation](http://www.fa.ru/Pages/Home.aspx) at Moscow City.
+I am Valyaev Georgiy <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" />, currently pursuing a bachelor's degree majoring in applied informatics from the [Financial University under the Government of the Russian Federation](http://www.fa.ru/Pages/Home.aspx) at Moscow City.
 
 <br/>
 </div>
 
 <details> 
   <summary>
-    <h2>💻 GitHub Profile Stats</h2>
+    <h3>💻 GitHub Profile Stats</h3>
   </summary>
   <p align=center>
   <div align=center>
@@ -42,7 +41,7 @@ I am Valyaev Georgiy, currently pursuing a bachelor's degree majoring in applied
 
 <details> 
   <summary>
-    <h2>🚀 Favourite hobbies</h2>
+    <h3>🚀 Favourite hobbies</h3>
   </summary>
   
 - Broke into IT to find myself and achieve success
@@ -134,7 +133,7 @@ I am Valyaev Georgiy, currently pursuing a bachelor's degree majoring in applied
 
 <details>
   <summary>
-    <h2>😄Funny jokes and gifs of an IT specialist</h2>
+    <h3>😄Funny jokes and gifs of an IT specialist</h3>
   </summary>
   
   <br/>
