@@ -84,7 +84,7 @@ I'm Valyaev Georgiy <img src="https://github.com/TheDudeThatCode/TheDudeThatCode
 
 
 
-#### ⚡ Writing projects and creating mobile (and other) applications for such operating systems
+#### ⚡ Creating projects and creating mobile (and other) applications for such operating systems
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
@@ -127,7 +127,8 @@ I'm Valyaev Georgiy <img src="https://github.com/TheDudeThatCode/TheDudeThatCode
 
 <hr>
 
-<details><summary>😄Funny jokes and gifs of an IT specialist</summary>  
+<details>
+  <summary>😄Funny jokes and gifs of an IT specialist</summary>  
   <div align="center">
     <img src=https://raw.githubusercontent.com/Valyaevgeorgiy/Valyaevgeorgiy/main/working_dev.gif />
     <img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="350" height="300" />
