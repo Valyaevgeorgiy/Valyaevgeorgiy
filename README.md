@@ -38,7 +38,7 @@ I'm Valyaev Georgiy <img src="https://github.com/TheDudeThatCode/TheDudeThatCode
 <hr>
 
 <details>
-  <summary>🚀 Favourite hobbies</summary>
+  <summary>🚀 Favorite hobbies</summary>
   
 - Broke into IT to find myself and achieve success
 
