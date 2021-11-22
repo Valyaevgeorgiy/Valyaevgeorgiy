@@ -31,7 +31,7 @@ I'm Valyaev Georgiy <img src="https://github.com/TheDudeThatCode/TheDudeThatCode
     </a>
   </div>
   <br>
-  <img alt="AsUsVeRsUs' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Valyaevgeorgiy&bg_color=1F222E&color=F8D866&line=F85D7F&point=#FFFFFF&hide_border=true" width="100%"/>
+  <img alt="AsUsVeRsUs' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Valyaevgeorgiy&bg_color=000C1D&color=8BADC1&line=102A44&point=#FFFFFF&hide_border=true" width="100%"/>
   </p>
 </details>
 
