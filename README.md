@@ -101,11 +101,11 @@ I'm Valyaev Georgiy <img src="https://github.com/TheDudeThatCode/TheDudeThatCode
 #### My work environment
 
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=flat&logo=android-studio&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white)
 ![RStudio](https://img.shields.io/badge/-Rstudio-75AADB?logo=RStudio&style=flat&logoColor=white)
 ![Google](https://img.shields.io/badge/google-4285F4?style=flat&logo=google&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green)
-![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=flat&logo=microsoft-word&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
