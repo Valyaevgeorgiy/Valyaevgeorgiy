@@ -73,16 +73,17 @@ I'm Valyaev Georgiy <img src="https://github.com/TheDudeThatCode/TheDudeThatCode
 #### I'm currently learning a lot of programming languages and website layout, such as
 
 ![Git](https://img.shields.io/badge/-Git-gray?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-239120?&style=flat&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![Github Actions](https://img.shields.io/badge/-Github_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-
-
 
 #### ⚡ Creating projects and mobile (and other) applications for such operating systems
 
