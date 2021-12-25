@@ -80,6 +80,7 @@ I'm Valyaev Georgiy <img src="https://github.com/TheDudeThatCode/TheDudeThatCode
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
+[![Bash](https://img.shields.io/badge/bash-lightgrey?labelColor=4EAA25&logo=GNU-Bash&style=flat&logoColor=white)](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=plastic&logo=Django)
@@ -101,6 +102,7 @@ I'm Valyaev Georgiy <img src="https://github.com/TheDudeThatCode/TheDudeThatCode
 
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=flat&logo=android-studio&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white)
+![RStudio](https://img.shields.io/badge/-Rstudio-75AADB?logo=RStudio&style=for-the-badge&logoColor=white)
 ![Google](https://img.shields.io/badge/google-4285F4?style=flat&logo=google&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=flat&logo=microsoft-powerpoint&logoColor=white)
@@ -108,7 +110,6 @@ I'm Valyaev Georgiy <img src="https://github.com/TheDudeThatCode/TheDudeThatCode
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=flat&logo=microsoft-word&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
 ![WebStorm](https://img.shields.io/badge/webstorm-143?style=flat&logo=webstorm&logoColor=white&color=black)
 
 <hr>
