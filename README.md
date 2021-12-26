@@ -64,7 +64,7 @@ I'm Valyaev Georgiy <img src="https://github.com/TheDudeThatCode/TheDudeThatCode
 
 - 🚀 I actively like to follow the news in the universe of information technology of such IT giants as: [![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=flat&logo=apple&logoColor=white)](https://www.apple.com/ru/) [![Xiaomi](https://img.shields.io/badge/Xiaomi-%23FF6900.svg?style=flat&logo=xiaomi&logoColor=white)](https://www.mi.com/ru/) [![Samsung](https://img.shields.io/badge/Samsung-%231428A0.svg?style=flat&logo=samsung&logoColor=white)](https://www.samsung.com/ru/)
 
-- 💻 I'm very stressed by him: [![Bitcoin](https://img.shields.io/badge/Bitcoin-000000?style=flat&logo=bitcoin&logoColor=white)](https://ru.investing.com/crypto/bitcoin/btc-usd) [![Dogecoin](https://img.shields.io/badge/dogecoin-B59A30?style=flat&logo=dogecoin&logoColor=white)](https://ru.investing.com/crypto/dogecoin)
+- 💻 I'm very stressed by him: [![Bitcoin](https://img.shields.io/badge/Bitcoin-000000?style=flat&logo=bitcoin&logoColor=white)](https://ru.investing.com/crypto/bitcoin/btc-usd) [![Dogecoin](https://img.shields.io/badge/dogecoin-B59A30?style=flat&logo=dogecoin&logoColor=white)](https://ru.investing.com/crypto/dogecoin) [![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=Ethereum&logoColor=white)](https://ru.investing.com/crypto/ethereum/eth-usd)
 
 </details>
 
