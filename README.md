@@ -72,48 +72,48 @@ I'm Valyaev Georgiy <img src="https://github.com/TheDudeThatCode/TheDudeThatCode
 
 #### I'm currently learning a lot of programming languages and website layout, such as
 
-![Git](https://img.shields.io/badge/-Git-gray?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Git](https://img.shields.io/badge/-Git-gray?style=flat&logo=Git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=Github)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=PostgreSQL)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=plastic&logo=Django)
-![Github Actions](https://img.shields.io/badge/-Github_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
+![Github Actions](https://img.shields.io/badge/-Github_Actions-2088FF?style=flat&logo=Github-Actions&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=Markdown&logoColor=white)
 [![Bash](https://img.shields.io/badge/-Bash-blasck?labelColor=4EAA25&logo=GNU-Bash&style=flat&logoColor=white)](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white)
 
 #### ⚡ Creating projects and mobile (and other) applications for such operating systems
 
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=flat&logo=linux-mint&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+![Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=flat&logo=Linux-Mint&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=Windows&logoColor=white)
 
 <hr>
 
 #### My work environment
 
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=flat&logo=Android-studio&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=flat&logo=Android-Studio&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=Postman)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=Nginx&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=flat&logo=Nginx&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=Anaconda&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat&logo=Jupyter&logoColor=white)
-![RStudio](https://img.shields.io/badge/-Rstudio-75AADB?logo=RStudio&style=flat&logoColor=white)
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=flat&logo=Pycharm&logoColor=black&color=black&labelColor=green)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=Microsoft-excel&logoColor=white)
-![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=flat&logo=Microsoft-word&logoColor=white)
-![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat&logo=Microsoft-outlook&logoColor=white)
-![Google Chrome](https://img.shields.io/badge/Chrome-black?style=flat-square&logo=Google-chrome)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=Visual-studio-code&logoColor=white)
-![WebStorm](https://img.shields.io/badge/webstorm-143?style=flat&logo=Webstorm&logoColor=white&color=black)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-%23FA0F00.svg?style=flat&logo=Jupyter&logoColor=white)
+![RStudio](https://img.shields.io/badge/-RStudio-75AADB?logo=RStudio&style=flat&logoColor=white)
+![PyCharm](https://img.shields.io/badge/Pycharm-143?style=flat&logo=Pycharm&logoColor=black&color=black&labelColor=green)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=Microsoft-Excel&logoColor=white)
+![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=flat&logo=Microsoft-Word&logoColor=white)
+![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)
+![Google Chrome](https://img.shields.io/badge/Chrome-black?style=flat-square&logo=Google-Chrome)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=Visual-Studio-Code&logoColor=white)
+![WebStorm](https://img.shields.io/badge/Webstorm-143?style=flat&logo=Webstorm&logoColor=white&color=black)
 
 <hr>
 
