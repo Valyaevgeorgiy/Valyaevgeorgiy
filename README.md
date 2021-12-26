@@ -100,16 +100,20 @@ I'm Valyaev Georgiy <img src="https://github.com/TheDudeThatCode/TheDudeThatCode
 
 #### My work environment
 
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=flat&logo=android-studio&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=flat&logo=Android-studio&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=Postman)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=Nginx&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=Anaconda&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat&logo=Jupyter&logoColor=white)
 ![RStudio](https://img.shields.io/badge/-Rstudio-75AADB?logo=RStudio&style=flat&logoColor=white)
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=flat&logo=microsoft-word&logoColor=white)
-![Google Chrome](https://img.shields.io/badge/Chrome-black?style=flat-square&logo=google-chrome)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
-![WebStorm](https://img.shields.io/badge/webstorm-143?style=flat&logo=webstorm&logoColor=white&color=black)
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=flat&logo=Pycharm&logoColor=black&color=black&labelColor=green)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=Microsoft-excel&logoColor=white)
+![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=flat&logo=Microsoft-word&logoColor=white)
+![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat&logo=Microsoft-outlook&logoColor=white)
+![Google Chrome](https://img.shields.io/badge/Chrome-black?style=flat-square&logo=Google-chrome)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=Visual-studio-code&logoColor=white)
+![WebStorm](https://img.shields.io/badge/webstorm-143?style=flat&logo=Webstorm&logoColor=white&color=black)
 
 <hr>
 
