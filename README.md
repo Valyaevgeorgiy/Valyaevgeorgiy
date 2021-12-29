@@ -166,6 +166,6 @@ I'm Valyaev Georgiy <img src="https://github.com/TheDudeThatCode/TheDudeThatCode
 </a>
 <span>&nbsp;</span>
 <a href="https://github.com/Valyaevgeorgiy/Web_apps_dev">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=Valyaevgeorgiy&repo=R_basic&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=Valyaevgeorgiy&repo=Web_apps_dev&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
 </a>
 </p>
