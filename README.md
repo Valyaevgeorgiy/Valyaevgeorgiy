@@ -81,6 +81,7 @@ I'm Valyaev Georgiy <img src="https://github.com/TheDudeThatCode/TheDudeThatCode
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)
+![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat&logo=SQLite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=PostgreSQL)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=plastic&logo=Django)
 ![Github Actions](https://img.shields.io/badge/-Github_Actions-2088FF?style=flat&logo=Github-Actions&logoColor=white)
