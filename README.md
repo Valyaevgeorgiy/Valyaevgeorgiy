@@ -82,7 +82,7 @@ I'm Valyaev Georgiy <img src="https://github.com/TheDudeThatCode/TheDudeThatCode
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=Markdown&logoColor=white)
 [![Bash](https://img.shields.io/badge/-Bash-blasck?labelColor=4EAA25&logo=GNU-Bash&style=flat&logoColor=white)](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
 
-#### Also some popular frameworks, databases and hostings
+#### Some popular frameworks, databases and hostings
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=React&logoColor=%2361DAFB)
 ![Git](https://img.shields.io/badge/-Git-gray?style=flat&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=Github)
@@ -92,6 +92,10 @@ I'm Valyaev Georgiy <img src="https://github.com/TheDudeThatCode/TheDudeThatCode
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=PostgreSQL)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=plastic&logo=Django)
 ![Github Actions](https://img.shields.io/badge/-Github_Actions-2088FF?style=flat&logo=Github-Actions&logoColor=white)
+
+#### Also, of course, machine learning and working with BigData
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=Pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-%23013243.svg?style=flat&logo=Numpy&logoColor=white)
 
 #### ⚡ Creating projects and mobile (and other) applications for such operating systems
 
@@ -104,25 +108,34 @@ I'm Valyaev Georgiy <img src="https://github.com/TheDudeThatCode/TheDudeThatCode
 <hr>
 
 #### My work environment
-----
-1. Programm apps:
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=flat&logo=Android-Studio&logoColor=white)
-2.
-----
 
-![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=Postman)
-![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=flat&logo=Nginx&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=Anaconda&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-%23FA0F00.svg?style=flat&logo=Jupyter&logoColor=white)
+##### Programm apps
+
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=flat&logo=Android-Studio&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat&logo=Intellij_IDEA&logoColor=white)
 ![RStudio](https://img.shields.io/badge/-RStudio-75AADB?logo=RStudio&style=flat&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/Pycharm-143?style=flat&logo=Pycharm&logoColor=black&color=black&labelColor=green)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-%23FA0F00.svg?style=flat&logo=Jupyter&logoColor=white)
+![WebStorm](https://img.shields.io/badge/Webstorm-143?style=flat&logo=Webstorm&logoColor=white&color=black)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=Visual-Studio-Code&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=Anaconda&logoColor=white)
+
+##### Applications for routine work from ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=flat&logo=Microsoft&logoColor=white)
+
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=Microsoft-Excel&logoColor=white)
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=flat&logo=Microsoft-Word&logoColor=white)
 ![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)
+![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=flat&logo=Microsoft_Power_Point&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=Notion&logoColor=white)
+
+##### Favourite browsers, request clients and web-servers
+
 ![Google Chrome](https://img.shields.io/badge/Chrome-black?style=flat-square&logo=Google-Chrome)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=Visual-Studio-Code&logoColor=white)
-![WebStorm](https://img.shields.io/badge/Webstorm-143?style=flat&logo=Webstorm&logoColor=white&color=black)
+![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=Postman)
+![Opera GX](https://img.shields.io/badge/Opera_GX-FF1B2D?style=flat&logo=Opera_GX&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=flat&logo=Nginx&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-%23D42029.svg?style=flat&logo=Apache&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white)
 
 <hr>
 
