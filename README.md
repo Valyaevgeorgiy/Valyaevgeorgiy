@@ -83,7 +83,7 @@ I'm Valyaev Georgiy <img src="https://github.com/TheDudeThatCode/TheDudeThatCode
 [![Bash](https://img.shields.io/badge/-Bash-blasck?labelColor=4EAA25&logo=GNU-Bash&style=flat&logoColor=white)](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
 
 #### Also some popular frameworks, databases and hostings
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=REACT&logoColor=%2361DAFB)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=React&logoColor=%2361DAFB)
 ![Git](https://img.shields.io/badge/-Git-gray?style=flat&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=Github)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)
