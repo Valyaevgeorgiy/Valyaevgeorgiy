@@ -120,7 +120,7 @@ I'm Valyaev Georgiy <img src="https://github.com/TheDudeThatCode/TheDudeThatCode
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=Visual-Studio-Code&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=Anaconda&logoColor=white)
 
-##### Applications for routine work from ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=flat&logo=Microsoft&logoColor=white)
+##### Applications for routine work
 
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=Microsoft-Excel&logoColor=white)
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=flat&logo=Microsoft-Word&logoColor=white)
