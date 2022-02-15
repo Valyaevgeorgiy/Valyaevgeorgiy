@@ -104,7 +104,10 @@ I'm Valyaev Georgiy <img src="https://github.com/TheDudeThatCode/TheDudeThatCode
 <hr>
 
 #### My work environment
-
+----
+1.
+2.
+----
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=flat&logo=Android-Studio&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=Postman)
 ![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=flat&logo=Nginx&logoColor=white)
