@@ -72,23 +72,26 @@ I'm Valyaev Georgiy <img src="https://github.com/TheDudeThatCode/TheDudeThatCode
 
 #### I'm currently learning a lot of programming languages and website layout, such as
 
-![Git](https://img.shields.io/badge/-Git-gray?style=flat&logo=Git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=Github)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=Markdown&logoColor=white)
+[![Bash](https://img.shields.io/badge/-Bash-blasck?labelColor=4EAA25&logo=GNU-Bash&style=flat&logoColor=white)](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white)
+
+#### Also some popular frameworks, databases and hostings
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Git](https://img.shields.io/badge/-Git-gray?style=flat&logo=Git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=Github)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)
 ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat&logo=SQLite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=MySQL&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=PostgreSQL)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=plastic&logo=Django)
 ![Github Actions](https://img.shields.io/badge/-Github_Actions-2088FF?style=flat&logo=Github-Actions&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=Markdown&logoColor=white)
-[![Bash](https://img.shields.io/badge/-Bash-blasck?labelColor=4EAA25&logo=GNU-Bash&style=flat&logoColor=white)](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white)
 
 #### ⚡ Creating projects and mobile (and other) applications for such operating systems
 
