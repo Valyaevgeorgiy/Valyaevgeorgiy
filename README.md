@@ -180,8 +180,8 @@
 <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=Valyaevgeorgiy&repo=My_projects&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
 </a>
 <span>&nbsp;</span>
-<a href="https://github.com/Valyaevgeorgiy/Coding_praktikum">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=Valyaevgeorgiy&repo=Coding_praktikum&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+<a href="https://github.com/Valyaevgeorgiy/CourseBigProject">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=Valyaevgeorgiy&repo=CourseBigProject&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
 </a>
 </p>
 
