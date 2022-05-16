@@ -6,13 +6,10 @@
 </h1>
 
 <div align="center">
-<br/>
-
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" />
- <!-- ![Header](https://raw.githubusercontent.com/koroteevmv/koroteevmv.github.io/master/assets/images/splash_image.jpg "Header")](https://koroteev.site/) -->
+  <br/>
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="45px" />
+  <br/>
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-
-<br/>
 </div>
 
 <details>
