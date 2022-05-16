@@ -9,6 +9,8 @@
   <br/>
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="45px" />
   <br/>
+  <br/>
+  <br/>
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 </div>
 
