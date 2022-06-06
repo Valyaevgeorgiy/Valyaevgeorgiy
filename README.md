@@ -7,7 +7,7 @@
 
 <div align="center">
   <br/>
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" />
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="15px"/>
   <br/>
   <br/>
   <br/>
