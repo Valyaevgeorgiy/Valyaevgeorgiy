@@ -187,8 +187,8 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/Valyaevgeorgiy/UNIX_systems">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=Valyaevgeorgiy&repo=UNIX_systems&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+<a href="https://github.com/Valyaevgeorgiy/Machine_learning">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=Valyaevgeorgiy&repo=Machine_learning&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
 </a>
 <span>&nbsp;</span>
 <a href="https://github.com/Valyaevgeorgiy/Web_apps_dev">
