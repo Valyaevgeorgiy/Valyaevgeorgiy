@@ -178,7 +178,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/exponentiaall)
 [![Telegram Badge](https://img.shields.io/badge/-@AsUsVeRsUs-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/AsUsVeRsUs "Contact on Telegram")
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white)](https://vm.tiktok.com/ZSeFvxwFk/)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)]
+![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)
 [![Instagram](https://img.shields.io/badge/-valyaev_egor-purple?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/valyaev_egor/)](https://instagram.com/valyaev_egor)
 
 <hr>
