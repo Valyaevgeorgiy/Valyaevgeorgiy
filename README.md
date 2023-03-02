@@ -91,25 +91,24 @@
 
 #### Some popular frameworks, databases and hostings
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=React&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/React_native-%2320232a.svg?style=flat&logo=React&logoColor=%2361DAFB)
 ![Git](https://img.shields.io/badge/-Git-gray?style=flat&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=Github)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)
-![Expo](https://img.shields.io/badge/expo-1C1E24?style=flat&logo=expo&logoColor=#D04A37)
+![Expo](https://img.shields.io/badge/Expo-1C1E24?style=flat&logo=Expo&logoColor=#D04A37)
 ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat&logo=SQLite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=MySQL&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=PostgreSQL)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=plastic&logo=Django)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white)
-![Github Actions](https://img.shields.io/badge/-Github_Actions-2088FF?style=flat&logo=Github-Actions&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=flat&logo=Flask&logoColor=white)
 
 #### Also, of course, machine & deap learning (ML / DL) and working with BigData
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=Pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-%23013243.svg?style=flat&logo=Numpy&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=Plotly&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=flat&logo=Scikit-learn&logoColor=white)
 
 #### ⚡ Creating projects and mobile (and other) applications for such operating systems
 
@@ -136,7 +135,7 @@
 
 #### Programming hardware systems with using Internet of Things
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=C&logoColor=white)
 
 ##### Applications for routine and cooperative work with projects
 
@@ -145,17 +144,17 @@
 ![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=flat&logo=Microsoft_Power_Point&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=Notion&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=flat&logo=Jira&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=flat=Pinterest&logoColor=white)](https://ru.pinterest.com/valyaev02gg/)
 
 ##### Favourite [browsers](https://ileriayo.github.io/markdown-badges/), cloud storages, team communication apps, request clients and web-servers
 
-![Google Meet](https://img.shields.io/badge/Google%20Meet-00897B?style=flat&logo=google-meet&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=flat&logo=zoom&logoColor=white)
+![Google Meet](https://img.shields.io/badge/Google%20Meet-00897B?style=flat&logo=Google-Meet&logoColor=white)
+![GitHub](https://img.shields.io/badge/Github-%23121011.svg?style=flat&logo=Github&logoColor=white)
+![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=flat&logo=Zoom&logoColor=white)
 ![Google Chrome](https://img.shields.io/badge/Chrome-black?style=flat-square&logo=Google-Chrome)
-![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=flat&logo=googledrive&logoColor=white)
+![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=flat&logo=Google-Drive&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=Postman)
 ![Opera GX](https://img.shields.io/badge/Opera_GX-FF1B2D?style=flat&logo=Opera_GX&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=flat&logo=Nginx&logoColor=white)
