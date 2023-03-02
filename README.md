@@ -131,9 +131,10 @@
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=flat&logo=Microsoft_Power_Point&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=Notion&logoColor=white)
 
-##### Favourite browsers, request clients and web-servers
+##### Favourite browsers, cloud storages, request clients and web-servers
 
 ![Google Chrome](https://img.shields.io/badge/Chrome-black?style=flat-square&logo=Google-Chrome)
+![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=flat&logo=googledrive&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=Postman)
 ![Opera GX](https://img.shields.io/badge/Opera_GX-FF1B2D?style=flat&logo=Opera_GX&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=flat&logo=Nginx&logoColor=white)
