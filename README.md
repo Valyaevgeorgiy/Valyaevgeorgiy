@@ -147,10 +147,13 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=Notion&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)
+![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=flat=Pinterest&logoColor=white)
 
-##### Favourite browsers, cloud storages, team communication apps, request clients and web-servers
+##### Favourite ![browsers](https://ileriayo.github.io/markdown-badges/), cloud storages, team communication apps, request clients and web-servers
 
 ![Google Meet](https://img.shields.io/badge/Google%20Meet-00897B?style=flat&logo=google-meet&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=flat&logo=zoom&logoColor=white)
 ![Google Chrome](https://img.shields.io/badge/Chrome-black?style=flat-square&logo=Google-Chrome)
 ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=flat&logo=googledrive&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=Postman)
@@ -175,7 +178,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/exponentiaall)
 [![Telegram Badge](https://img.shields.io/badge/-@AsUsVeRsUs-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/AsUsVeRsUs "Contact on Telegram")
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white)](https://vm.tiktok.com/ZSeFvxwFk/)
-![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)]
 [![Instagram](https://img.shields.io/badge/-valyaev_egor-purple?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/valyaev_egor/)](https://instagram.com/valyaev_egor)
 
 <hr>
