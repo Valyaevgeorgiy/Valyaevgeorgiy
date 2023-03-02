@@ -32,7 +32,7 @@
     </a>
   </div>
   <br>
-  <img alt="AsUsVeRsUs' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Valyaevgeorgiy&bg_color=011627&color=C691E9&line=FEEA94&point=FFFFFF&hide_border=true" width="100%"/>
+  <!--<img alt="AsUsVeRsUs' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Valyaevgeorgiy&bg_color=011627&color=C691E9&line=FEEA94&point=FFFFFF&hide_border=true" width="100%"/>-->
   </p>
 </details>
 
