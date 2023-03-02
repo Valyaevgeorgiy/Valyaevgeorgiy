@@ -149,7 +149,7 @@
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)
 ![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=flat=Pinterest&logoColor=white)
 
-##### Favourite ![browsers](https://ileriayo.github.io/markdown-badges/), cloud storages, team communication apps, request clients and web-servers
+##### Favourite [browsers](https://ileriayo.github.io/markdown-badges/), cloud storages, team communication apps, request clients and web-servers
 
 ![Google Meet](https://img.shields.io/badge/Google%20Meet-00897B?style=flat&logo=google-meet&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
