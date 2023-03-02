@@ -85,6 +85,10 @@
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=Markdown&logoColor=white)
 [![Bash](https://img.shields.io/badge/-Bash-blasck?labelColor=4EAA25&logo=GNU-Bash&style=flat&logoColor=white)](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
 
+#### Monitoring & watching popular IT-forums (squares) with solutions of main code problems
+![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
+![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
+
 #### Some popular frameworks, databases and hostings
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=React&logoColor=%2361DAFB)
 ![Git](https://img.shields.io/badge/-Git-gray?style=flat&logo=Git)
