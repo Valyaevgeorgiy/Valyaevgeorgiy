@@ -169,7 +169,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-valyaev02gg@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:valyaev02gg@gmail.com "Connect via Email")
 [![Stackoverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16944689/valyaev-georgiy?tab=profile)
-[![Visits](https://komarev.com/ghpvc/?username=Valyaevgeorgiy&label=Profile%20views&color=0e75b6&style=flat)]
+![Visits](https://komarev.com/ghpvc/?username=Valyaevgeorgiy&label=Profile%20views&color=0e75b6&style=flat)
 
 - 📫 Feel free to connect with me here
 
