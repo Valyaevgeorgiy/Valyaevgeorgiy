@@ -147,7 +147,7 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=Notion&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)
-![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=flat=Pinterest&logoColor=white)
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=flat=Pinterest&logoColor=white)](https://ru.pinterest.com/valyaev02gg/)
 
 ##### Favourite [browsers](https://ileriayo.github.io/markdown-badges/), cloud storages, team communication apps, request clients and web-servers
 
