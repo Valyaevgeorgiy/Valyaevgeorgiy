@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src=https://readme-typing-svg.herokuapp.com?color=%232FF717&size=34&center=true&vCenter=true&width=700&height=50%&lines=Hello%2C+there!+Glad+to+see+you+here...;My+name+is+Georgy+Valyaev.;Nice+to+meet+you!;Welcome+to+the+space+of+my+IT+ideas />
+    <img src=https://readme-typing-svg.herokuapp.com?color=%232FF717&size=34&center=true&vCenter=true&width=700&height=50%&lines=Hello%2C+there!+Glad+to+see+you+here...;My+name+is+Georgy+Valyaev;Nice+to+meet+you!;Welcome+to+the+space+of+my+IT+ideas />
   </a>
 </h1>
 
@@ -133,10 +133,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=Visual-Studio-Code&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=Anaconda&logoColor=white)
 
-#### Programming hardware systems with using Internet of Things
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=C&logoColor=white)
-
 ##### Applications for routine and cooperative work with projects
 
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=Microsoft-Excel&logoColor=white)
@@ -152,14 +148,11 @@
 
 ![Google Meet](https://img.shields.io/badge/Google%20Meet-00897B?style=flat&logo=Google-Meet&logoColor=white)
 ![GitHub](https://img.shields.io/badge/Github-%23121011.svg?style=flat&logo=Github&logoColor=white)
-![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=flat&logo=Zoom&logoColor=white)
 ![Google Chrome](https://img.shields.io/badge/Chrome-black?style=flat-square&logo=Google-Chrome)
 ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=flat&logo=Google-Drive&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=Postman)
-![Opera GX](https://img.shields.io/badge/Opera_GX-FF1B2D?style=flat&logo=Opera_GX&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=flat&logo=Nginx&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-%23D42029.svg?style=flat&logo=Apache&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white)
 
 <hr>
 
@@ -176,7 +169,6 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/79168779534?text=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%20%D0%BE%D1%82%20%D0%95%D0%B3%D0%BE%D1%80%D0%B0%20%D0%92%D0%B0%D0%BB%D1%8F%D0%B5%D0%B2%D0%B0!%20%F0%9F%91%8B)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/exponentiaall)
 [![Telegram Badge](https://img.shields.io/badge/-@AsUsVeRsUs-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/AsUsVeRsUs "Contact on Telegram")
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white)](https://vm.tiktok.com/ZSeFvxwFk/)
 ![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)
 [![Instagram](https://img.shields.io/badge/-valyaev_egor-purple?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/valyaev_egor/)](https://instagram.com/valyaev_egor)
 
